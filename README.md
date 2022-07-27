@@ -10,3 +10,4 @@ Repository made as a consultant repository to find code quickly
 # Security
 
 ## [KeyChainPasswordItem](https://github.com/renatomateusx/CodeSample/blob/master/KeychainPasswordItem.swift)
+## [FaceID](https://github.com/renatomateusx/CodeSample/blob/master/FaceIDExample.swift)
