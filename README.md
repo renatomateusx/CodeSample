@@ -16,3 +16,4 @@ Repository made as a consultant repository to find code quickly
 # MultiThreading
 
 ## [DispatchGroup](https://github.com/renatomateusx/CodeSample/blob/master/DispatchGroup.swift)
+## [DispatchSemaphore](https://github.com/renatomateusx/CodeSample/blob/master/DispatchSemaphore.swift)
