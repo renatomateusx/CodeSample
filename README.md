@@ -11,3 +11,8 @@ Repository made as a consultant repository to find code quickly
 
 ## [KeyChainPasswordItem](https://github.com/renatomateusx/CodeSample/blob/master/KeychainPasswordItem.swift)
 ## [FaceID](https://github.com/renatomateusx/CodeSample/blob/master/FaceIDExample.swift)
+
+
+# MultiThreading
+
+## [DispatchGroup](https://github.com/renatomateusx/CodeSample/blob/master/DispatchGroup.swift)
