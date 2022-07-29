@@ -18,3 +18,7 @@ Repository made as a consultant repository to find code quickly
 ## [DispatchGroup](https://github.com/renatomateusx/CodeSample/blob/master/DispatchGroup.swift)
 ## [DispatchSemaphore](https://github.com/renatomateusx/CodeSample/blob/master/DispatchSemaphore.swift)
 
+# Techinical Interview
+
+## Uber > [UberSortITicketIntoContinousRoute](https://github.com/renatomateusx/CodeSample/blob/master/UberSortITicketIntoContinousRoute.swift)
+
