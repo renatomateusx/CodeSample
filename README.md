@@ -24,3 +24,7 @@ Repository made as a consultant repository to find code quickly
 
 ## Uber > [UberSortITicketIntoContinousRoute](https://github.com/renatomateusx/CodeSample/blob/master/UberSortITicketIntoContinousRoute.swift)
 
+# Helpers -> From the Challenge app codility
+
+## [UsersListViewModel](https://github.com/renatomateusx/CodeSample/blob/master/UsersListViewModel.swift)
+## [RequestsProvider](https://github.com/renatomateusx/CodeSample/blob/master/RequestsProvider.swift)
