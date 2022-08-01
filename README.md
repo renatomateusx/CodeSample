@@ -7,6 +7,7 @@ Repository made as a consultant repository to find code quickly
 ## [LinkedList](https://github.com/renatomateusx/CodeSample/blob/master/LinkedList.swift)
 ## [HigherOrderFunctions](https://github.com/renatomateusx/CodeSample/blob/master/HigherOrderFunctionsExample.swift)
 ## [PascalTriangle](https://github.com/renatomateusx/CodeSample/blob/master/PascalTriangle.swift)
+## [SortedTicketsToTheContinuousRoute](https://github.com/renatomateusx/CodeSample/blob/master/TicketsSortedToRoute.swift)
 
 # Security
 
