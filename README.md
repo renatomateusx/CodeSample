@@ -23,6 +23,7 @@ Repository made as a consultant repository to find code quickly
 # Techinical Interview
 
 ## Uber > [UberSortITicketIntoContinousRoute](https://github.com/renatomateusx/CodeSample/blob/master/UberSortITicketIntoContinousRoute.swift)
+## NetFlix > [NetFlixMergeIntervals](https://github.com/renatomateusx/CodeSample/blob/master/NetFlix_Merge_Interval_Algorithm.swift)
 
 # Helpers -> From the Challenge app codility
 
