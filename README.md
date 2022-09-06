@@ -8,6 +8,7 @@ Repository made as a consultant repository to find code quickly
 ## [HigherOrderFunctions](https://github.com/renatomateusx/CodeSample/blob/master/HigherOrderFunctionsExample.swift)
 ## [PascalTriangle](https://github.com/renatomateusx/CodeSample/blob/master/PascalTriangle.swift)
 ## [SortedTicketsToTheContinuousRoute](https://github.com/renatomateusx/CodeSample/blob/master/TicketsSortedToRoute.swift)
+## [BinarySearch_VS_LinearSearch_BIG_O_Notation](https://github.com/renatomateusx/CodeSample/blob/master/Big_O_Notation_LinearSearch_VS_BinarySearch.swift)
 
 # Security
 
