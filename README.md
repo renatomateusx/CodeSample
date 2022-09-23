@@ -30,3 +30,8 @@ Repository made as a consultant repository to find code quickly
 
 ## [UsersListViewModel](https://github.com/renatomateusx/CodeSample/blob/master/UsersListViewModel.swift)
 ## [RequestsProvider](https://github.com/renatomateusx/CodeSample/blob/master/RequestsProvider.swift)
+
+
+
+# Custom Components
+## [SwitchComponent](https://github.com/renatomateusx/CodeSample/blob/master/SwitchComponent.swift)
